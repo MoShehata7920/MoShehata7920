@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif](https://thumbs.gfycat.com/EvilNextDevilfish-small.gif)"  />
+<img align="right" height="150" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"  />
 
 ###
 
