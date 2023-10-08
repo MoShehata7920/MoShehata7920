@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"  />
+<img align="right" height="150" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 ###
 
