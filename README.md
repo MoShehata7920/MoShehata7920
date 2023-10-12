@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Mohamed Shehata and I'm a Flutter developer, from Egypt.</h2>
+<h2 align="center">Hi 👋! My name is Mohamed Shehata and I'm a Flutter developer and Computer and Automatic Control engineer, from Egypt.</h2>
 
 ###
 
