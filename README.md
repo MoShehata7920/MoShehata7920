@@ -36,22 +36,22 @@ I am a passionate **Flutter Developer** focused on building high-quality, user-c
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Call Sense** | Manage ringer modes for specific contacts automatically. | Flutter, Dart | [View Store]([https://play.google.com/store/apps/details?id=your.package.name](https://play.google.com/store/apps/details?id=com.torkydev.call_sense&pcampaignid=web_share)) |
-| **Budget Master** | A personal finance tracker for managing expenses and income. | Flutter, Hive | [View Store]([#](https://play.google.com/store/apps/details?id=com.torkydev.budget_master&pcampaignid=web_share)) |
-| **قرآن و ذكر** | A spiritual companion app for daily Athkar and Quran reading. | Flutter, Localization | [Source Code](#) |
-| **Laborex** | Distrbution App. | Flutter | [View Store](https://play.google.com/store/apps/details?id=com.laborex.driver&pcampaignid=web_share) |
+| **Call Sense** | Manage ringer modes for specific contacts automatically. | Flutter, Dart | [View Store]([https://play.google.com/store/apps/details?id=your.package.name](https://play.google.com/store/apps/details?id=com.torkydev.budget_master&pcampaignid=web_share)) |
+| **Budget Master** | A personal finance tracker for managing expenses and income. | Flutter, Dart | [View Store](https://play.google.com/store/apps/details?id=com.torkydev.budget_master&pcampaignid=web_share) |
+| **Azkar Elganaa** | A spiritual companion app for daily Athkar and Quran reading. | Flutter, Dart | [View Store]([#](https://play.google.com/store/apps/details?id=com.azkar.elgana&pcampaignid=web_share)) |
+| **Laborex** | Distrbustion App system. | Flutter, Dart | [View Store]([#](https://play.google.com/store/apps/details?id=com.laborex.driver&pcampaignid=web_share)) |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoShehata7920&show_icons=true&theme=dracula&count_private=true" alt="Mohamed's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoShehata7920&show_icons=true&theme=dracula&layout=compact" alt="Most used languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MoShehata7920&show_icons=true&theme=dracula&count_private=true&hide_border=false" alt="Mohamed's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoShehata7920&show_icons=true&theme=dracula&layout=compact&hide_border=false" alt="Most used languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MoShehata7920&theme=dracula" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=MoShehata7920&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
@@ -62,10 +62,10 @@ I am a passionate **Flutter Developer** focused on building high-quality, user-c
   <a href="https://www.linkedin.com/in/mohamed-shehata-b9aa86233" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/MoShehata7920/portfolio" target="_blank">
+  <a href="https://moshehata7920.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:mohamed.torky7900@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
