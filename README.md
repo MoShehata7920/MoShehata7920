@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=200&section=header&text=Mohamed%20Shehata&fontSize=80&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=200&section=header&text=Mohamed%20Torky&fontSize=80&animation=fadeIn&fontAlignY=35" />
 </div>
 
 <div align="center">
   <h1>Hi there, I'm Mohamed! 👋</h1>
   <p><strong>Mobile Application Developer | Flutter Enthusiast | Backend Explorer</strong></p>
-  <p>📍 Based in Egypt 🇪🇬 | Open to opportunities in Germany 🇩🇪 and UAE 🇦🇪</p>
+  <p>📍 Based in Egypt 🇪🇬 | Open to opportunities in overall the world</p>
 </div>
 
 ---
 
 ### 🚀 About Me
-I am a passionate **Flutter Developer** focused on building high-quality, user-centric mobile applications. My journey involves crafting seamless UI/UX experiences and exploring the power of **FastAPI** for robust backends. Currently, I'm diving deeper into **SQL** and expanding my architecture knowledge.
+I am a passionate **Flutter Developer** focused on building high-quality, user-centric mobile applications. My journey involves crafting seamless UI/UX experiences and exploring the power of **FastAPI** & **NodeJs** for robust backends. Currently, I'm diving deeper into **SQL** and expanding my architecture knowledge.
 
 ---
 
@@ -36,10 +36,10 @@ I am a passionate **Flutter Developer** focused on building high-quality, user-c
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Call Sense** | Manage ringer modes for specific contacts automatically. | Flutter, Dart | [View Store](https://play.google.com/store/apps/details?id=your.package.name) |
-| **Budget Master** | A personal finance tracker for managing expenses and income. | Flutter, Hive | [Source Code](#) |
+| **Call Sense** | Manage ringer modes for specific contacts automatically. | Flutter, Dart | [View Store]([https://play.google.com/store/apps/details?id=your.package.name](https://play.google.com/store/apps/details?id=com.torkydev.call_sense&pcampaignid=web_share)) |
+| **Budget Master** | A personal finance tracker for managing expenses and income. | Flutter, Hive | [View Store]([#](https://play.google.com/store/apps/details?id=com.torkydev.budget_master&pcampaignid=web_share)) |
 | **قرآن و ذكر** | A spiritual companion app for daily Athkar and Quran reading. | Flutter, Localization | [Source Code](#) |
-| **Smart AI Gym** | (In Dev) AI-powered workout tracking and progress analysis. | Flutter, Python | [WIP](#) |
+| **Laborex** | Distrbution App. | Flutter | [View Store](https://play.google.com/store/apps/details?id=com.laborex.driver&pcampaignid=web_share) |
 
 ---
 
