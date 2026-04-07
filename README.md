@@ -1,47 +1,71 @@
-<h2 align="center">Hi 👋! My name is Mohamed Shehata and I'm a Flutter developer, from Egypt.</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoShehata7920&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoShehata7920&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=MoShehata7920&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=200&section=header&text=Mohamed%20Shehata&fontSize=80&animation=fadeIn&fontAlignY=35" />
 </div>
 
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="31" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="31" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="31" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="31" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="31" alt="vscode logo"  />
+  <h1>Hi there, I'm Mohamed! 👋</h1>
+  <p><strong>Mobile Application Developer | Flutter Enthusiast | Backend Explorer</strong></p>
+  <p>📍 Based in Egypt 🇪🇬 | Open to opportunities in Germany 🇩🇪 and UAE 🇦🇪</p>
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  />
+### 🚀 About Me
+I am a passionate **Flutter Developer** focused on building high-quality, user-centric mobile applications. My journey involves crafting seamless UI/UX experiences and exploring the power of **FastAPI** for robust backends. Currently, I'm diving deeper into **SQL** and expanding my architecture knowledge.
 
-###
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://www.instagram.com/Mohamed_shehata7920/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+</div>
+
+---
+
+### 📱 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Call Sense** | Manage ringer modes for specific contacts automatically. | Flutter, Dart | [View Store](https://play.google.com/store/apps/details?id=your.package.name) |
+| **Budget Master** | A personal finance tracker for managing expenses and income. | Flutter, Hive | [Source Code](#) |
+| **قرآن و ذكر** | A spiritual companion app for daily Athkar and Quran reading. | Flutter, Localization | [Source Code](#) |
+| **Smart AI Gym** | (In Dev) AI-powered workout tracking and progress analysis. | Flutter, Python | [WIP](#) |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoShehata7920&show_icons=true&theme=dracula&count_private=true" alt="Mohamed's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoShehata7920&show_icons=true&theme=dracula&layout=compact" alt="Most used languages" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MoShehata7920&theme=dracula" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
   <a href="https://www.linkedin.com/in/mohamed-shehata-b9aa86233" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/mohamed.elgarf.7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <a href="https://github.com/MoShehata7920/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-###
