@@ -5,13 +5,13 @@
 <div align="center">
   <h1>Hi there, I'm Mohamed! 👋</h1>
   <p><strong>Mobile Application Developer | Flutter Enthusiast | Backend Explorer</strong></p>
-  <p>📍 Based in Egypt 🇪🇬 | Open to opportunities in overall the world</p>
+  <p>📍 Based in Egypt 🇪🇬 | Open to opportunities worldwide 🌍</p>
 </div>
 
 ---
 
 ### 🚀 About Me
-I am a passionate **Flutter Developer** focused on building high-quality, user-centric mobile applications. My journey involves crafting seamless UI/UX experiences and exploring the power of **FastAPI** & **NodeJs** for robust backends. Currently, I'm diving deeper into **SQL** and expanding my architecture knowledge.
+I am a passionate **Flutter Developer** focused on building high-quality, user-centric mobile applications. My journey involves crafting seamless UI/UX experiences and exploring the power of **FastAPI** & **NodeJs** for robust backends. Currently, I'm diving deeper into **SQL** and expanding my architecture knowledge to build scalable systems.
 
 ---
 
@@ -22,6 +22,7 @@ I am a passionate **Flutter Developer** focused on building high-quality, user-c
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
   <br>
@@ -36,18 +37,18 @@ I am a passionate **Flutter Developer** focused on building high-quality, user-c
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Call Sense** | Manage ringer modes for specific contacts automatically. | Flutter, Dart | [View Store]([https://play.google.com/store/apps/details?id=your.package.name](https://play.google.com/store/apps/details?id=com.torkydev.budget_master&pcampaignid=web_share)) |
-| **Budget Master** | A personal finance tracker for managing expenses and income. | Flutter, Dart | [View Store](https://play.google.com/store/apps/details?id=com.torkydev.budget_master&pcampaignid=web_share) |
-| **Azkar Elganaa** | A spiritual companion app for daily Athkar and Quran reading. | Flutter, Dart | [View Store]([#](https://play.google.com/store/apps/details?id=com.azkar.elgana&pcampaignid=web_share)) |
-| **Laborex** | Distrbustion App system. | Flutter, Dart | [View Store]([#](https://play.google.com/store/apps/details?id=com.laborex.driver&pcampaignid=web_share)) |
+| **Call Sense** | Manage ringer modes for specific contacts automatically. | Flutter, Dart | [View Store](https://play.google.com/store/apps/details?id=com.torkydev.budget_master) |
+| **Budget Master** | A personal finance tracker for managing expenses and income. | Flutter, Dart | [View Store](https://play.google.com/store/apps/details?id=com.torkydev.budget_master) |
+| **Azkar Elganaa** | A spiritual companion app for daily Athkar and Quran reading. | Flutter, Dart | [View Store](https://play.google.com/store/apps/details?id=com.azkar.elgana) |
+| **Laborex** | Distribution App system for drivers and logistics. | Flutter, Dart | [View Store](https://play.google.com/store/apps/details?id=com.laborex.driver) |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoShehata7920&show_icons=true&theme=dracula&count_private=true&hide_border=false" alt="Mohamed's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoShehata7920&show_icons=true&theme=dracula&layout=compact&hide_border=false" alt="Most used languages" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MoShehata7920&show_icons=true&theme=dracula&count_private=true&hide_border=false" alt="Mohamed's GitHub stats" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=MoShehata7920&show_icons=true&theme=dracula&layout=compact&hide_border=false" alt="Most used languages" height="170" />
 </div>
 
 <div align="center">
